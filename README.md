@@ -1,4 +1,3 @@
 # react_styled_components
 
-☝ styled components<br>
-✌ type script
+<i>react_styled_components 👉 react_typescript</i>
